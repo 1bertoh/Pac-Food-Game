@@ -1,5 +1,7 @@
 # pacfood
 
+A game created using VueJs and TypeScript. The game is hostted on: https://pacfood-game.firebaseapp.com/
+
 ## Project setup
 ```
 npm install
